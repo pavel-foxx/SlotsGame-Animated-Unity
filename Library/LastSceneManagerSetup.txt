@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/slots_base/scenes/game.unity
+  isLoaded: 1
+  isActive: 1

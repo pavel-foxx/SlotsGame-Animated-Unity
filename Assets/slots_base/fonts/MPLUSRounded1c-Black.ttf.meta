@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a930996dd0170e94ab2bda03f558c179
+timeCreated: 1535585885
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rounded Mplus 1c Black
+  fontNames:
+  - Rounded Mplus 1c Black
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
